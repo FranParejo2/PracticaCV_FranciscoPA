@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace PractivaCV_FranciscoPA
 {
-    internal class Clase_FranciscoPA
+    public class Clase_FranciscoPA
+        // ENUMERACIONES
     {
+        // MIEMBROS
+
+        // PROPIEDADES
+
+        // CONSTRUCTORES
+
+        // METODOS
     }
 }
