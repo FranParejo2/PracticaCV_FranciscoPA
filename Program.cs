@@ -1,4 +1,6 @@
-﻿namespace PractivaCV_FranciscoPA
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace PractivaCV_FranciscoPA
 {
     internal class Program
     {
@@ -16,6 +18,7 @@
             // PROCESO
 
             // SALIDA
+            Console.WriteLine("Mi nombre es: Francisco Javier Parejo Arroyo");
         }
     }
 }
