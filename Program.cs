@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+
+            // Estructura del Programa de FranciscoPA”
+
             // CONSTANTES
 
             // VARIABLES
